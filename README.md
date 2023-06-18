@@ -12,7 +12,7 @@ or
 * Project Components:
    1. Data Preprocessing
    2. EDA
-   3. Modelling:
+   3. Modelling
       3.1. Feature Engineering
       3.2. Build models
       3.3. Model evaluation
