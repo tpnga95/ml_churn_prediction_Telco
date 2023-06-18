@@ -7,7 +7,9 @@ This project focuses on classifying customer churn in a fictional telco company 
 The dataset used in this project is published by IBM. It includes information about customers' demographics, location, services, monthly charges, and churn status. 
 Here is the link to download the dataset
 https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+
 or 
+https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
 
 * Project Components:
 1. Data Preprocessing
