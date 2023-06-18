@@ -13,7 +13,7 @@ or
 1. Data Preprocessing
 2. EDA
 3. Modelling
-   3.1. Feature Engineering
-   3.2. Build models
-   3.3. Model evaluation
+   - Feature Engineering
+   - Build models
+   - Model evaluation
 4. Conclusion
