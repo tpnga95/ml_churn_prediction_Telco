@@ -10,7 +10,7 @@ https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/20
 or 
 https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
 
-## Project Components:
+## Project Components
 1. Data Preprocessing
 2. EDA
 3. Modelling
